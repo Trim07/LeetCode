@@ -1,4 +1,4 @@
--- Problem description: 181. Employees Earning More Than Their Managers
+-- Problem description: 175. Combine Two Tables
 
 SELECT
     T0.name as Employee
