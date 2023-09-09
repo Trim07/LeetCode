@@ -1,7 +1,9 @@
--- Problem description: 586. Customer Placing the Largest Number of Orders
+-- Problem description: 595. Big Countries
 
-SELECT TOP 1
-    T0.customer_number
-FROM Orders T0
-GROUP BY customer_number
-ORDER BY COUNT(T0.customer_number) DESC
+SELECT
+    T0.name,
+    T0.population,
+    T0.area
+FROM World T0
+WHERE T0.area >= 3000000
+OR T0.population >= 25000000
