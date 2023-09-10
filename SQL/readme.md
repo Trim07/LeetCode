@@ -14,4 +14,4 @@
 | EASY | 619. Biggest Single Number | [biggest-single-number.sql](/SQL/src/biggest-single-number.sql) |
 | EASY | 627. Swap Salary | [swap-salary.sql](/SQL/src/swap-salary.sql) |
 | EASY | 1729. Find Followers Count | [swap-salary.sql](/SQL/src/find-followers-count.sql) |
-| EASY | 1068. Product Sales Analysis I | [product-sales-analysis-i](/SQL/src/product-sales-analysis-i) |
+| EASY | 1068. Product Sales Analysis I | [product-sales-analysis-i](/SQL/src/product-sales-analysis-i.sql) |
