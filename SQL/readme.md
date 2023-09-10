@@ -15,3 +15,4 @@
 | EASY | 627. Swap Salary | [swap-salary.sql](/SQL/src/swap-salary.sql) |
 | EASY | 1729. Find Followers Count | [swap-salary.sql](/SQL/src/find-followers-count.sql) |
 | EASY | 1068. Product Sales Analysis I | [product-sales-analysis-i](/SQL/src/product-sales-analysis-i.sql) |
+| EASY | 1407. Top Travellers | [top-travellers](/SQL/src/top-travellers.sql) |
