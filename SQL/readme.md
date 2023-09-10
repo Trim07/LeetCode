@@ -13,4 +13,5 @@
 | EASY | 607. Sales Person | [sales-person.sql](/SQL/src/sales-person.sql) |
 | EASY | 619. Biggest Single Number | [biggest-single-number.sql](/SQL/src/biggest-single-number.sql) |
 | EASY | 627. Swap Salary | [swap-salary.sql](/SQL/src/swap-salary.sql) |
+| EASY | 1729. Find Followers Count | [swap-salary.sql](/SQL/src/find-followers-count.sql) |
 
